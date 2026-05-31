@@ -85,8 +85,8 @@ Endpoints sécurisés via Laravel Sanctum permettant l'accès aux données depui
 Cloner le projet :
 
 ```bash
-git clone <URL_DU_REPO>
-cd cabinet-medical
+git clone git@github.com:mohammedzarriy/cabinet-medical-management.git
+cd rendezVousProject
 ```
 
 Installer les dépendances :
