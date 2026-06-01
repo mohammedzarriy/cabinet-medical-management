@@ -185,6 +185,8 @@ Toutes les routes protégées nécessitent un Bearer Token valide.
 * API REST sécurisée.
 * Support multilingue.
 * Notifications par email.
+* Blade Layouts (Header, Sidebar, Footer).
+* Fenêtres modales pour l'ajout, la modification et la suppression.
 
 ## Auteur
 
